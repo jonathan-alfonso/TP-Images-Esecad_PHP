@@ -1,0 +1,28 @@
+* {
+    list-style: none;
+}
+
+ul {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    margin: 1%;
+}
+
+li {
+    margin: 1%;
+    background-color: #C7D3C8;
+    border: 1px dotted #000;
+}
+
+.formImageSubmit {
+    display: block;
+    text-align: center;
+    width: 30%;
+    height: 5%;
+    margin: auto;
+}
+
+.formDescr {
+    width: 100%;
+}
